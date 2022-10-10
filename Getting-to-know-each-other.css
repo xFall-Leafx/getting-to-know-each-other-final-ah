@@ -1,0 +1,24 @@
+img {display: block; margin-left: auto; margin-right: auto;}
+  h1 {text-align: center}
+  h2 {text-align: center}
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  p {text-align: center}
+  ul {
+    text-align: center;
+    list-style-position: inside;
+}
+  ul.b {list-style-type: square; }
+  article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #e8f0f5;
+    padding: 10px;
+    opacity: 1
+  }
+  img {
+    border: 5px solid rgba(100, 75, 49, 0.795);
+  }
+  
